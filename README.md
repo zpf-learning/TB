@@ -1,1 +1,1 @@
-Expected to be available within xx days.
+Expected to be available within 2 days.
